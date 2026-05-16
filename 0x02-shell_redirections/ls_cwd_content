@@ -1,0 +1,11 @@
+total 19
+drwxr-xr-x 1 Wilson 197609  0 May 16 21:32 .
+drwxr-xr-x 1 Wilson 197609  0 May 16 18:12 ..
+-rwxr-xr-x 1 Wilson 197609 32 May 16 17:49 0-hello_world
+-rwxr-xr-x 1 Wilson 197609 28 May 16 17:59 1-confused_smiley
+-rwxr-xr-x 1 Wilson 197609 35 May 16 18:08 5-firstlines
+-rwxr-xr-x 1 Wilson 197609 40 May 16 18:14 6-third_line
+-rwxr-xr-x 1 Wilson 197609 80 May 16 18:17 7-file
+-rwxr-xr-x 1 Wilson 197609 36 May 16 21:31 8-cwd_state
+-rw-r--r-- 1 Wilson 197609 24 May 16 18:15 iacta
+-rw-r--r-- 1 Wilson 197609  0 May 16 21:32 ls_cwd_content
