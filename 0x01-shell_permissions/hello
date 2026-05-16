@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 chmod 753 hello
+=======
+#!/bin/bash
+chmod 753 hello
+>>>>>>> 5f7c65c (Add directory permissions script)
