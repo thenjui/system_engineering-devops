@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# A script that handles SIGTERM signal
+# A script that ignores SIGTERM and reacts instead
 
-trap 'echo "I am invincible!!!"' SIGTERM
+trap "echo I am invincible!!!" SIGTERM
 
 while true
 do
