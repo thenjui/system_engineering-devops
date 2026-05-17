@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# A Bash script that displays all running processes
+# A Bash script that displays all running processes in a tree format
 
-ps -ef
+ps auxf
